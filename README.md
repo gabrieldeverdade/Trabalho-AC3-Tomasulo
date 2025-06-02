@@ -37,3 +37,5 @@ This is a Tomasulo simulator program that simulates the execution of instruction
 - You can use the provided example instruction files to test the simulator:
     - `inputs/instrucoes.txt`: Contains divd, add, mul and sub instructions.
     - `inputs/instrucoes2.txt`: Contains lw, sw, divd, add, mul and sub instructions.
+ 
+      
