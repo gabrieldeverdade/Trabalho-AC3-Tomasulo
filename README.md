@@ -1,5 +1,5 @@
 # Simulação Tomasulo  
-### Alunos: Andre Santos Alves, Bernardo D Ávila Rodrigues Bartholomeu, Gabriel Azevedo Fernandes
+### Alunos: Andre Santos Alves, Bernardo D Ávila Rodrigues Bartholomeu, Gabriel Azevedo Fernandes, Luis Henrique Dusanek Guedes
 ### Disciplina: Arquitetura de Computadores 3
 ### Professor: Matheus Alcântara Souza
 
